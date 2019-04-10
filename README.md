@@ -6,5 +6,5 @@ The code for the prediction of acute kidney injury using memory networks and hie
 (2) How to Run: To run the model on your data, you need to: change the function of loading data in utils.py; 
 set hyperparameters for the model in "train.py", and run the "train.py".
 
-(3) More details can be referred our manuscripI (the title is : Identification of Predictive Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks), I will upload our manuscript to arxiv.
+(3) More details can be referred our manuscripI (the title is : Identification of Predictive Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks), I have uploaded our manuscript to arxiv (https://arxiv.org/submit/2647642/view).
 
